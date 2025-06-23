@@ -1,6 +1,7 @@
 # 🛡️ Decentralized Identity Verification DApp
 
 A secure and user-friendly **Ethereum-based dApp** for identity verification, built using **💻Solidity**, **⚛️React**, **🦊MetaMask**, and **Ganache**.
+
 Revolutionizing user authentication, this secure and user-friendly Ethereum-based Decentralized Application (dApp) provides a robust solution for identity verification. Built with the powerful combination of Solidity for smart contracts, a React frontend, seamless MetaMask integration, and Ganache for local development, this dApp offers a glimpse into the future of self-sovereign identity.
 ---
 
