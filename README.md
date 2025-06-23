@@ -113,12 +113,6 @@ npm start
 
 ---
 
-## 📸 Screenshots
-
-> 📷 *Add screenshots of your login/registration UI here*
-
----
-
 ## 🛠 Smart Contract: `IdentityVerification.sol`
 
 ```solidity
